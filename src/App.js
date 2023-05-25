@@ -1,9 +1,9 @@
-import { TheList } from './component/common/TheList';
+import { ToDoHome } from './component/common/ToDoHome';
 
 function App() {
   return (
     <div>
-      <TheList  />
+      <ToDoHome />
     </div>
   );
 }
